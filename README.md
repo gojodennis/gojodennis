@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1643514974/10003/catjam.gif" width="25"/>
 
-I’m [**Hrishikesh**](https://gojodennis.netlify.app/), An AI-focused frontend designer building automations with no-code tools, based in India..
+I’m [**Hrishikesh**](https://gojodennis-portfolio.vercel.app/), An AI-focused frontend designer building automations with no-code tools, based in India..
 
 I love building automation and find an efficient way (lazy way) to work 10x the norm.
 
