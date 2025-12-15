@@ -4,7 +4,7 @@ I’m [**Hrishikesh**](https://gojodennis-portfolio.vercel.app/), An AI-focused 
 
 I love building automation and find an efficient way (lazy way) to work 10x the norm.
 
-Outside of code and Figma, you’ll find me reading brain rot self-improvement books, cleaning stuff, or drawing. I also enjoy writing [blog posts](https://gojodennis.hashnode.dev/) and sharing tech-related content on social media.
+Outside of code and Figma, you’ll find me reading brain rot self-improvement books, cleaning stuff, or drawing. I also enjoy sharing tech-related content on [social media](https://www.youtube.com/@gojodennis).
 
 #### Fun Facts:
 
